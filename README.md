@@ -8,3 +8,7 @@ test repository for markdown
 [relative path](/opengl-8080/markdown-test/edit/master/README.md)
 
 [absolutepath](https://github.com/opengl-8080/markdown-test/issues/1)
+
+<font color="red">font tag</font>
+<div class="text-center">div tag</div>
+
